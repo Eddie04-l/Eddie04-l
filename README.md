@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Eddie04-l
+- 👋 Hi, I’m Confidence Edwin 
 - 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning Artificial Intelligence 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning/ Artificial Intelligence Projects
 - 📫 How to reach me
 - Mail: olekauwaconfidence@gmail.com
 - WhatsApp: +234(0)8061701047
+- Discord: dev_eddie
 - 😄 Pronouns: He
 - ⚡ Fun fact: When its working (code) pls leave it 
 
